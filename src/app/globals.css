@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#upperdiv{
+    background-image: url("../../public/bg1.svg");
+    background-size: cover;
+}
